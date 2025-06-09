@@ -1,2 +1,2 @@
 # APP_Marca
-Um app mobilie utilizando react native com tema da marca lacoste
+Um app mobile utilizando react native com tema da marca lacoste
